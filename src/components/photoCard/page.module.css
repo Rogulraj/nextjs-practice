@@ -1,0 +1,21 @@
+.main {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.img_style {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.img_name_style {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 10px;
+}
